@@ -215,8 +215,7 @@
 	1941 provides for sharply increased taxes to collect more than $3 billion for the defense effort. </p>
 <h2>10 27, 1941</h2>"",""<p>Ten days after a German U-boat torpedoes the U.S. destroyer <i>Kearney</i>, FDR announces to the nation that "America has been attacked, the shooting has started." He stops short of declaring war on Germany, however, as many Americans are still reluctant to enter into open war, even after another U-boat sinks the U.S. destroyer <i>Reuben James</i> just three days later with the loss of 100 American lives. </p>
 <h2>11 17, 1941</h2>"",""<p>Japan's ambassador to the United States, along with a special envoy, begin negotiations with the State Department in the nation's capital. They propose that the United States remove the trade restrictions on Japan and refrain from involving itself with Japan's activities in China. On November 26, Secretary of State Cordell Hull rejects these proposals, stating that the Japanese must first withdraw from China and Indochina before the trade restrictions can be lifted. </p>
-<h2>12 7, 1941</h2>"",""
-<p>Japanese bombers attack Pearl Harbor, the major U.S. naval base in
+<h2>12 7, 1941</h2>"",""<p>Japanese bombers attack Pearl Harbor, the major U.S. naval base in
 	Hawaii. The attack kills 2,400 soldiers, sailors, and civilians, and wounds nearly 1,200 others. In addition, the U.S. Pacific fleet is significantly weakened by the loss of eight battleships and 150 planes. That evening, Japan will officially declare war on the United States. The next day, Roosevelt appears before a special joint session of Congress, calling December 7 "a date which will live in infamy," and asking for a declaration of war against Japan; Congress does so the same day. </p>
 <h2>12 10, 1941</h2>"",""<p>Japan invades the Philippines, landing at Luzon. </p>
 <h2>12 11, 1941</h2>"",""<p>Germany and Italy declare war on the United States; Congress, in turn, declares war on Germany and Italy. </p>

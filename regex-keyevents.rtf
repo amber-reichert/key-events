@@ -89,8 +89,26 @@ for end date: \
 \
 \
 \
-**need to insert 0s to make YYYY/MM/DD for single-digit days/months\
+
+\b insert 0s to make YYYY/MM/DD for single-digit days/months
+\b0 \
+\
+YYYY/M/D:\
+([0-9]\{4\})/([0-9]\{1\})/([0-9]\{1\})([<"]+)\
+\\1/0\\2/0\\3\\4\
+\
+YYYY/MM/D:\
+([0-9]\{4\})/([0-9]\{2\})/([0-9]\{1\})([<"]+)\
+\\1/\\2/0\\3\\4\
+\
+YYYY/M/DD:\
+([0-9]\{4\})/([0-9]\{1\})/([0-9]\{2\})([<"]+)\
+\\1/0\\2/\\3\\4\
+\
+\
+\
+\
+\
 remove h2, p\
-add "day" to empty precision fields\
 add new fields\
 }

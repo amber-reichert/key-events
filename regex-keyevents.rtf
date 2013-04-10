@@ -27,8 +27,8 @@ date\
 date ended\
 \
 Fields:\
-date begin, date end, date precision, descr\
-need: title, president, url\
+date begin, date end, date precision, descr, presidency\
+need: title, url\
 \
 \
 \
@@ -119,4 +119,10 @@ Replace quotations within columns
 Insert president name and column for president name\
 "$\
 ",""\
-}
+\
+\
+\
+\
+Catches all entries through to description field: \
+^"([0-9]\{4\})([0-9/ ]*)([0-9/ ]*)","([\\s]*)([0-9 ]*)([0-9/ ]*)([0-9/ ]*)([\\s]*)","([DayMonthYear ]+)","([a-z0-9 ]+)\
+Use to build URLs? (Capture 1st word, replicate in url with date?)}
